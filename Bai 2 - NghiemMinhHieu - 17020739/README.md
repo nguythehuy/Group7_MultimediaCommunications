@@ -1,4 +1,4 @@
-#Bài 2
+# Bài 2
 
 Phần 1
 Cài đặt các thư viện cần thiết trên Cmd bằng các lệnh:
