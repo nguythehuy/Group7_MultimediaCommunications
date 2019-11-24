@@ -34,7 +34,7 @@ for s in sine_wave:
 # Đóng file
 wav_file.close()
 
-# Kiểm tra đồ thị sóng
+# Thêm bước kiểm tra đồ thị sóng
 plt.plot(sine_wave[:300])
 plt.show()
 
