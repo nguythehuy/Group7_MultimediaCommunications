@@ -1,4 +1,6 @@
-# Bài 1
+#Bài 2
+
+Phần 1
 Cài đặt các thư viện cần thiết trên Cmd bằng các lệnh:
    pip install numpy 
    pip install wave
@@ -10,6 +12,6 @@ Cài đặt các thư viện cần thiết trên Cmd bằng các lệnh:
  struct: module để convert giữa python value và C struct
 
 
-# Bài 2
+Phần 2
  pyaudio tải và cài từ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
