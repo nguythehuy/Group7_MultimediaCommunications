@@ -13,5 +13,5 @@ Cài đặt các thư viện cần thiết trên Cmd bằng các lệnh:
 
 
 Phần 2
- pyaudio tải và cài từ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+ pyaudio tải và cài phiên bản thích hợp từ  link https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
